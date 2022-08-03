@@ -10,7 +10,7 @@ Here we have a nice FiveM ready script that allows you to do /discord in game.  
 
 At the moment there are no known issues within the script.
 
-#INSTALL
+# INSTALL
 
 1) Drag discordcom into your resources folder
 2) Ensure or Start in your server config
